@@ -48,3 +48,4 @@ fn main() {
 // Need to learn how to:
 // stride on vectors cleanly
 // sum vector subsets cleanly
+
